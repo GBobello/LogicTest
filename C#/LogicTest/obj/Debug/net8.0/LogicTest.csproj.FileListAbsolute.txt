@@ -1,0 +1,14 @@
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.AssemblyInfoInputs.cache
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.AssemblyInfo.cs
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.csproj.CoreCompileInputs.cache
+C:\Users\progunico13\Desktop\projects\LogicTest\bin\Debug\net8.0\LogicTest.exe
+C:\Users\progunico13\Desktop\projects\LogicTest\bin\Debug\net8.0\LogicTest.deps.json
+C:\Users\progunico13\Desktop\projects\LogicTest\bin\Debug\net8.0\LogicTest.runtimeconfig.json
+C:\Users\progunico13\Desktop\projects\LogicTest\bin\Debug\net8.0\LogicTest.dll
+C:\Users\progunico13\Desktop\projects\LogicTest\bin\Debug\net8.0\LogicTest.pdb
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.dll
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\refint\LogicTest.dll
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.pdb
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\LogicTest.genruntimeconfig.cache
+C:\Users\progunico13\Desktop\projects\LogicTest\obj\Debug\net8.0\ref\LogicTest.dll

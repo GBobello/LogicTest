@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\progunico13\\Desktop\\projects\\LogicTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D1B994-3A37-44F7-8E4B-2B242B6FE3D3}|..\\LogicTest.Test\\LogicTest.Test.csproj|c:\\users\\progunico13\\desktop\\projects\\logictest.test\\networktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37516CF-7122-4BA0-887F-278C288BD0BD}|LogicTest.csproj|c:\\users\\progunico13\\desktop\\projects\\logictest\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37516CF-7122-4BA0-887F-278C288BD0BD}|LogicTest.csproj|solutionrelative:network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\progunico13\\Desktop\\projects\\LogicTest\\Network.cs",
+              "RelativeDocumentMoniker": "Network.cs",
+              "ToolTip": "C:\\Users\\progunico13\\Desktop\\projects\\LogicTest\\Network.cs",
+              "RelativeToolTip": "Network.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowEMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:19:52.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkTest.cs",
+              "DocumentMoniker": "C:\\Users\\progunico13\\Desktop\\projects\\LogicTest.Test\\NetworkTest.cs",
+              "RelativeDocumentMoniker": "..\\LogicTest.Test\\NetworkTest.cs",
+              "ToolTip": "C:\\Users\\progunico13\\Desktop\\projects\\LogicTest.Test\\NetworkTest.cs",
+              "RelativeToolTip": "..\\LogicTest.Test\\NetworkTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:32:20.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

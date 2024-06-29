@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{7B258731-03B4-4D21-8EA9-3EB6248F9389}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="LogicTestDelphi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Test\LogicTestDelphiTests.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="LogicTestDelphi">
+        <MSBuild Projects="LogicTestDelphi.dproj"/>
+    </Target>
+    <Target Name="LogicTestDelphi:Clean">
+        <MSBuild Projects="LogicTestDelphi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LogicTestDelphi:Make">
+        <MSBuild Projects="LogicTestDelphi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="LogicTestDelphiTests">
+        <MSBuild Projects="Test\LogicTestDelphiTests.dproj"/>
+    </Target>
+    <Target Name="LogicTestDelphiTests:Clean">
+        <MSBuild Projects="Test\LogicTestDelphiTests.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LogicTestDelphiTests:Make">
+        <MSBuild Projects="Test\LogicTestDelphiTests.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="LogicTestDelphi;LogicTestDelphiTests"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="LogicTestDelphi:Clean;LogicTestDelphiTests:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="LogicTestDelphi:Make;LogicTestDelphiTests:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
